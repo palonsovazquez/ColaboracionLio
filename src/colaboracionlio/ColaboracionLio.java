@@ -17,22 +17,15 @@ public class ColaboracionLio {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
-    
-    
-    //Aragorn
-    //Hijo de Arazor
-    //Rey de Gondor
-         //comentario dePablo a quedarse
-         comentario dePablo a quedarse
-                 
-                 cambios david
-  // comentario inutil de pablo  
-}
-  uaehfkajsdhkjf
-          asdkfdsjajklsfdn
-          asdjknvadkljvsnda
-                  jkdnsajklfdsnjkl
-                  advndvajklnvdsakl
-                          fadnvkanvdjkl
+    zxsdchfgc
+            aaaaaaaaaaa
+            aaaaaaaaaaaaa
+                    aaaaaaaaaaaaaaa
+                    aaaaaaaaaaaaaaa
+                            aaaaaaaaaaaaa
+                            aaaaaaaaaaaaaa
+                                    aaaaaaaaaaaaa
+                                    aaaaaaaaaaaaa
+                                            aaaaaaaaaaa
+                                            aaaaaaaaaaa
     }
